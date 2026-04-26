@@ -6,8 +6,6 @@ permalink: /about/
 
 ## Hey there, I'm Robin 👋
 
-#Some information about you!
-
 I'm a physics PhD student at the *University of Queensland (UQ)* in Brisbane, Australia. I previously graduated from *TU Wien* and the *University of Vienna*.
 My research lies at the intersection of theoretical atomic physics, quantum science, and computational physics.
 I focus on high-precision atomic structure calculations of heavy ions, specifically those relevant for the development of next-generation optical atomic clocks. Such devices are crucial for testing fundamental physical theories, including investigating physics beyond the Standard Model and searching for Dark Matter signatures.
