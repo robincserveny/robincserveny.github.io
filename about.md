@@ -16,6 +16,7 @@ I previously focused on calculations for single-valence heavy ions using the dec
 ### More Information
 
 * [CV (pdf)]({{ site.baseurl }}/docs/CV-CservenyRobin.pdf)
+* [MSc Thesis (pdf)]({{ site.baseurl }}/docs/Thesis_MSc-CservenyRobin.pdf)
 
 ### Contact me
 
